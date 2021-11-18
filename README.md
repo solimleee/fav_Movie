@@ -1,18 +1,1 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
-
-To use this application, 
-
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
-
+![Nov-18-2021 10-05-29](https://user-images.githubusercontent.com/81938383/142332335-717f824e-5679-4d51-9ee6-6f43475d3824.gif)
